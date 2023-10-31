@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jawa">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#0000ff</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="ungu">#800080</color>
+    <color name="hijau">#FFC0CB</color>
+    <color name="merah">#FF0000</color>
+    <color name="kuning">#FFFF00</color>
+    <color name="coklat">#FFC0CB</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

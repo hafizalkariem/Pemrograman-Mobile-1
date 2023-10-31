@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".implicit_explicit_activity"
+
+    ><![CDATA[
+
+    16dp"
+        tools:layout_editor_absoluteY="29dp" />
+
+    16dp"
+        tools:layout_editor_absoluteY="85dp" />
+
+
+
+
+    ]]>
+
+    <EditText
+        android:id="@+id/editangka1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Masukan angka pertama"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <EditText
+        android:id="@+id/editangka2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Masukan angka Kedua"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="83dp" />
+
+    <Button
+        android:id="@+id/btntambah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tambahkan"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="159dp" />
+
+
+    <TextView
+        android:id="@+id/texthasil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hasilnya adalah"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <Button
+        android:id="@+id/buttonmove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="pindah"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="260dp" />
+
+    <Button
+        android:id="@+id/buttonshare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bagikan"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="341dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
