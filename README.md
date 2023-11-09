@@ -1,5 +1,10 @@
 # Pemrograman-Mobile-1
 
+| Nama  | Ahmad Hapizhudin |
+| :---- | :--------------- |
+| NIM   | 312210370        |
+| Kelas | TI.22.A4         |
+
 # Deret Fibonacci
 
 Deret Fibonacci adalah deret bilangan yang dimulai dengan dua angka, yaitu 0 dan 1, dan setiap angka selanjutnya adalah penjumlahan dari dua angka sebelumnya dalam deret tersebut. Dalam matematika, deret Fibonacci didefinisikan sebagai berikut:
