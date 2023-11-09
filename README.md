@@ -75,4 +75,6 @@ Fibonacci App adalah alat yang membantu pengguna memahami dan menghitung deret F
 
 ![Alt Text](/Desain%20tanpa%20judul.gif)
 
+Untuk video selengkapnya [klik disini](/1110.mp4)
+
 <h2 align="center">Terimakasih</h2>
