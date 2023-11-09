@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">helloApp</string>
+
     <string name="apakabar001">bagaimana kabarnya</string>
     <string name="hello">Tinggal dimana sekarang</string>
     <string name="button_label_toast">Toast</string>
@@ -32,4 +32,13 @@
     <string name="button_second">Reply</string>
     <string name="editText_second">Enter Your Reply Here</string>
     <string name="text_header_reply">Reply Received</string>
+
+    <string name="app_name">FibonacciApp</string>
+
+    <string name="button_label_fibonacci">Fibonacci</string>
+    <string name="fibonacci_message">Program Fibonacci</string>
+    <string name="reset">Reset</string>
+    <string name="enter_limit">Enter limit</string>
+    <string name="_0">0</string>
+
 </resources>

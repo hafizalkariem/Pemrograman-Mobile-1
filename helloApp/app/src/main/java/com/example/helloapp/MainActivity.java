@@ -1,4 +1,4 @@
-package androidx.constraintlayout.widget.fibonacciapp;
+package com.example.helloapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main_activity);
         mShowFibonacci = (TextView) findViewById(R.id.show_count);
         mLimitInput = (EditText) findViewById(R.id.limit_input);
         updateFibonacciDisplay();
